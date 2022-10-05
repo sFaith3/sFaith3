@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samuel Balcells</h1>
 <h3 align="center">I'm an Interactive Digital Content Developer. I ❤️‍ Jesus and I like StarCraft 2.</h3>
 
-- 🔭 I’m currently working on [Misstep Studio](https://github.com/MisstepStudio)
+- 🔭 I’m currently working in [Misstep Studio](https://github.com/MisstepStudio)
 
 - 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://iceman3.github.io/portfolio/)
+- 👨‍💻 All of my best projects are available at [my portfolio](https://iceman3.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
