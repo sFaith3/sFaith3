@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my best projects are available at [my portfolio](https://iceman3.github.io/portfolio)
+- 👨‍💻 All of my best projects are available at [my portfolio](https://sfaith3.github.io/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
