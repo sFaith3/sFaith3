@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [Misstep Studio](https://github.com/MisstepStudio)
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently improving in **Unreal Engine C++**
 
 - 👨‍💻 All of my best projects are available at [my portfolio](https://sfaith3.github.io/portfolio)
 
