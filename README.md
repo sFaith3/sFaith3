@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/sFaith3"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=3000&color=F70000&repeat=true&width=450&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Samuel+Balcells"/></a></h1>
+<h1 align="center"><a href="https://github.com/sFaith3"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=3000&color=F70000&repeat=true&width=450&lines=Hi%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Samuel+Balcells"/></a></h1>
 <!--<h1 align="center">Hi 👋🏻, I'm Samuel Balcells</h1>-->
 <h3 align="center">I ❤️‍ Jesus and I am passionate about video games, series and programming. My favorite video game is <i>StarCraft II</i>. Always hot with a drink of ice water.</h3>
 
