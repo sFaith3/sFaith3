@@ -2,6 +2,8 @@
 <!--<h1 align="center">Hi👋🏻, I'm Samuel Balcells</h1>-->
 <h3 align="center">I ❤️‍ Jesus and I am passionate about video games, series and programming. My favorite video game is <i>StarCraft II</i>. Always hot with a drink of ice water.</h3>
 
+- 🔥 My goal is to create, with excellence, interactive digital content that edifies or is useful for people, while I grow professionally with a team. In addition to participating in projects that seek to extend the kingdom of God
+
 - 🔭 I am currently developing [Death By Misstep](https://deathbymisstep.com) in [Misstep Studio](https://github.com/MisstepStudio) with Unity C#
 
 - 🌱 I am currently improving in **Unreal Engine C++**
