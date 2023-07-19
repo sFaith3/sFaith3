@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://github.com/sFaith3"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=3000&color=F70000&width=435&lines=Hi%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Samuel+Balcells"/></a></h1>
-<h3 align="center">I ❤️‍ Jesus and I am passionate about video games, series and programming.</h3>
+<h3 align="center">I ❤️‍ <a href="https://www.bible.com">Jesus</a> and I am passionate about video games, series and programming.</h3>
 
 - 🔥 My goal is to create, with excellence, digital content that edifies or is useful to people, while I grow professionally with passion in a team to bring value wherever God guides me
 
