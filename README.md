@@ -5,7 +5,7 @@
 
 - 🔭 I am currently developing [Death By Misstep](https://deathbymisstep.com) in [Misstep Studio](https://github.com/MisstepStudio) with Unity C#
 
-- 🌱 I am currently improving in **Unreal Engine C++**
+- 🌱 I am currently improving in **Unity C#** and learning **pattern design**
 
 - 📄 If you wish, check out [my portfolio](https://sfaith3.github.io/portfolio) to see my best projects and more info!
 
