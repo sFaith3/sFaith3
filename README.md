@@ -1,11 +1,11 @@
 <h1 align="center"><a href="https://github.com/sFaith3"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=3000&color=F70000&width=435&lines=Hi%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Samuel+Balcells"/></a></h1>
-<h3 align="center">I ❤️‍ <a href="https://www.bible.com">Jesus</a> and I am passionate about video games, series and programming.</h3>
+<h3 align="center">I ❤️‍ <a href="https://www.bible.com">Jesus</a> and I am passionate about video games and their potential to impact our lives, especially in areas like health and education, where they are transforming experiences and behaviors.</h3>
 
-- 🔥 My goal is to create, with excellence, digital content that edifies or is useful to people, while I grow professionally with passion in a team to bring value wherever God guides me
+- 🎯 My goal is to create quality digital content that adds value to people, while growing professionally in a passionate and collaborative team, wherever God may guide me
 
-- 📄 If you wish, check out [my portfolio](https://sfaith3.github.io/portfolio) to see my best projects and more info!
+- 📄 Check out [my portfolio](https://sfaith3.github.io/portfolio) to see my best projects and more info!
 
-- 👨‍💻 My best public projects are available in the pinned repositories👇🏻
+- 🔥 My best public projects are available in the pinned repositories👇🏻
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
